@@ -1,6 +1,6 @@
 I build things to understand them. Right now that means AEM Edge Delivery.
 
-I spent years in JCR and Apache Oak and never really left. Oak Segment Consensus
+I spent years in trad AEM, JCR and Apache Oak and never really left. Oak Segment Consensus
 is what happened when I followed that rabbit hole all the way down. It’s the
 thing I’m proudest of.
 
